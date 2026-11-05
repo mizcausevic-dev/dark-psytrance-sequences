@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ps01,Root Network,pack-local equal-tempered pitch collection,A,148,4/4,480,32,61440,midi/ps01-root-network/ps01-root-network-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ps02,Hidden Grove,pack-local equal-tempered pitch collection,C,148,4/4,480,32,61440,midi/ps02-hidden-grove/ps02-hidden-grove-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ps03,Black Mycelium,pack-local equal-tempered pitch collection,D#,148,4/4,480,32,61440,midi/ps03-black-mycelium/ps03-black-mycelium-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ps04,Moon Circuit,pack-local equal-tempered pitch collection,A#,148,4/4,480,32,61440,midi/ps04-moon-circuit/ps04-moon-circuit-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

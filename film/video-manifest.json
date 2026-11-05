@@ -1,0 +1,26 @@
+{
+  "title": "Dark Psytrance Sequences",
+  "study": "ps01",
+  "bpm": 148,
+  "source_audio": "preview/dark-psytrance-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "2ac92a790915a0624788ce2ef241e0192249ef9b27f693b252314676c7ef847d",
+  "source_midi": "midi/ps01-root-network/ps01-root-network-combined.mid",
+  "source_midi_sha256": "8a359bf26153c09c327ae89fbb7a5e57ae93a1fc5d84c4e64456c7ea89c02a29",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "1540a09f83fc42d5730414633d1158df19ece6d69e966c13ee62ab146647954f",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "f91b4a025d2fcb5bee22ddccf3e0728fa1e1bdef886498d437b3ef57865bef5e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "045d630735428d2dba9a37dcca9e8f6949d3a8b774f7964851c7e775b3019939",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

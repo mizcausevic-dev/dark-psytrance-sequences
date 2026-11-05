@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+ps01,1,0,A,pack-local equal-tempered pitch collection,45 48 51,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,2,1920,A,pack-local equal-tempered pitch collection,45 48 51,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,3,3840,A,pack-local equal-tempered pitch collection,45 48 51,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,4,5760,A,pack-local equal-tempered pitch collection,45 48 51,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,5,7680,A,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,6,9600,A,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,7,11520,A,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,8,13440,A,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,9,15360,A,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,10,17280,A,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,11,19200,A,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,12,21120,A,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,13,23040,A,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,14,24960,A,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,15,26880,A,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,16,28800,A,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,17,30720,A,pack-local equal-tempered pitch collection,45 48 51,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,18,32640,A,pack-local equal-tempered pitch collection,45 48 51,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,19,34560,A,pack-local equal-tempered pitch collection,45 48 51,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,20,36480,A,pack-local equal-tempered pitch collection,45 48 51,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,21,38400,A,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,22,40320,A,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,23,42240,A,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,24,44160,A,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,25,46080,A,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,26,48000,A,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,27,49920,A,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,28,51840,A,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,29,53760,A,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,30,55680,A,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,31,57600,A,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps01,32,59520,A,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Initial cell establishes the material.
+ps02,1,0,C,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,2,1920,C,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,3,3840,C,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,4,5760,C,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,5,7680,C,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,6,9600,C,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,7,11520,C,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,8,13440,C,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,9,15360,C,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,10,17280,C,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,11,19200,C,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,12,21120,C,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,13,23040,C,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,14,24960,C,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,15,26880,C,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,16,28800,C,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,17,30720,C,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,18,32640,C,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,19,34560,C,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,20,36480,C,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,21,38400,C,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,22,40320,C,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,23,42240,C,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,24,44160,C,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,25,46080,C,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,26,48000,C,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,27,49920,C,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,28,51840,C,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,29,53760,C,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,30,55680,C,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,31,57600,C,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps02,32,59520,C,pack-local equal-tempered pitch collection,48 51 54,Fast tightly articulated low sequences and ominous upper motifs. Statement introduces a different contour.
+ps03,1,0,D#,pack-local equal-tempered pitch collection,57 60 63,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,2,1920,D#,pack-local equal-tempered pitch collection,57 60 63,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,3,3840,D#,pack-local equal-tempered pitch collection,57 60 63,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,4,5760,D#,pack-local equal-tempered pitch collection,57 60 63,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,5,7680,D#,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,6,9600,D#,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,7,11520,D#,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,8,13440,D#,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,9,15360,D#,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,10,17280,D#,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,11,19200,D#,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,12,21120,D#,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,13,23040,D#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,14,24960,D#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,15,26880,D#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,16,28800,D#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,17,30720,D#,pack-local equal-tempered pitch collection,57 60 63,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,18,32640,D#,pack-local equal-tempered pitch collection,57 60 63,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,19,34560,D#,pack-local equal-tempered pitch collection,57 60 63,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,20,36480,D#,pack-local equal-tempered pitch collection,57 60 63,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,21,38400,D#,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,22,40320,D#,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,23,42240,D#,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,24,44160,D#,pack-local equal-tempered pitch collection,54 57 60,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,25,46080,D#,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,26,48000,D#,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,27,49920,D#,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,28,51840,D#,pack-local equal-tempered pitch collection,51 54 57,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,29,53760,D#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,30,55680,D#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,31,57600,D#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps03,32,59520,D#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Contrast moves the accent map.
+ps04,1,0,A#,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,2,1920,A#,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,3,3840,A#,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,4,5760,A#,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,5,7680,A#,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,6,9600,A#,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,7,11520,A#,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,8,13440,A#,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,9,15360,A#,pack-local equal-tempered pitch collection,47 50 53,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,10,17280,A#,pack-local equal-tempered pitch collection,47 50 53,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,11,19200,A#,pack-local equal-tempered pitch collection,47 50 53,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,12,21120,A#,pack-local equal-tempered pitch collection,47 50 53,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,13,23040,A#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,14,24960,A#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,15,26880,A#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,16,28800,A#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,17,30720,A#,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,18,32640,A#,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,19,34560,A#,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,20,36480,A#,pack-local equal-tempered pitch collection,49 52 55,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,21,38400,A#,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,22,40320,A#,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,23,42240,A#,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,24,44160,A#,pack-local equal-tempered pitch collection,46 49 52,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,25,46080,A#,pack-local equal-tempered pitch collection,47 50 53,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,26,48000,A#,pack-local equal-tempered pitch collection,47 50 53,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,27,49920,A#,pack-local equal-tempered pitch collection,47 50 53,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,28,51840,A#,pack-local equal-tempered pitch collection,47 50 53,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,29,53760,A#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,30,55680,A#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,31,57600,A#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.
+ps04,32,59520,A#,pack-local equal-tempered pitch collection,52 55 58,Fast tightly articulated low sequences and ominous upper motifs. Return keeps the identity while changing one placement.

@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dark-psytrance-sequences-simple-synth-preview.mp3",
+  "preview_sha256": "2ac92a790915a0624788ce2ef241e0192249ef9b27f693b252314676c7ef847d",
+  "source_midi_path": "midi/ps01-root-network/ps01-root-network-combined.mid",
+  "source_midi_sha256": "8a359bf26153c09c327ae89fbb7a5e57ae93a1fc5d84c4e64456c7ea89c02a29",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "ps01",
+    "start_seconds": 0,
+    "end_seconds": 51.892
+  },
+  "measurement": {
+    "sample_peak": 0.103174,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
