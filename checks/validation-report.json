@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T02:03:58.630487+00:00",
+  "run_time_utc": "2026-11-05T22:56:10.275662+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/ps01-root-network/principal_motif.mid",
-      "bytes": 1161,
-      "sha256": "85df2f2c89c2e861a3a824feaf97a1d380fd560ddc70e60a4263a7e97f8fe375",
+      "bytes": 1252,
+      "sha256": "a7bcfd804575c30a5b79b877693d7316cf362974bf8258abd15be2e979ce8e39",
       "errors": []
     },
     {
       "path": "midi/ps01-root-network/ps01-root-network-combined.mid",
-      "bytes": 7189,
-      "sha256": "8a359bf26153c09c327ae89fbb7a5e57ae93a1fc5d84c4e64456c7ea89c02a29",
+      "bytes": 7280,
+      "sha256": "660ba4a3ccd4206137ba88d6c69491d5d4ec322ee48f427faad27a3dd37f279e",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/ps02-hidden-grove/principal_motif.mid",
-      "bytes": 1161,
-      "sha256": "acd064cb1afc636600f60cd06f0b53abf8cd16db0ac793565b9de3932d7edee6",
+      "bytes": 1253,
+      "sha256": "64a0a7d18aa435dcc3d50d945921a698fbe93e6d325b7adefee24b6e99c13d10",
       "errors": []
     },
     {
       "path": "midi/ps02-hidden-grove/ps02-hidden-grove-combined.mid",
-      "bytes": 7189,
-      "sha256": "c62add5c4634444d43e43e7dc960762fa3bb7d631929c7eaca5888514e81bfa3",
+      "bytes": 7281,
+      "sha256": "08b401a1a685a2acb5bac2621461e9f1ceead1eefcb4ae1fcc534d41b8838644",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/ps03-black-mycelium/principal_motif.mid",
-      "bytes": 1121,
-      "sha256": "e5f9883b896133ed6238964f39a0eb74437a07b0c62d3a58797c5b106c773a03",
+      "bytes": 1196,
+      "sha256": "37a9262b2c173a1e06dd5a96e77e7e21b18c53625001f0655a7d64adce1e9dcf",
       "errors": []
     },
     {
       "path": "midi/ps03-black-mycelium/ps03-black-mycelium-combined.mid",
-      "bytes": 7149,
-      "sha256": "4fdabc0388f37843032beb5f489479bc50a7e3665c68b553c8163f3ccc569e59",
+      "bytes": 7224,
+      "sha256": "133098961b98c2e08c932de27aeff28e3bd6cac466c5759746307148fee4ed83",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/ps04-moon-circuit/principal_motif.mid",
-      "bytes": 1121,
-      "sha256": "1d580d42275dbd6054fa41e8d7a17ff5f976d38c9a865b20aa2d130a52d0c7b9",
+      "bytes": 1198,
+      "sha256": "81e71a235e10076261aaa75f4fd10a294da171f9b19c9c38f9e8504d77031a68",
       "errors": []
     },
     {
       "path": "midi/ps04-moon-circuit/ps04-moon-circuit-combined.mid",
-      "bytes": 7149,
-      "sha256": "15a0abf81fbbc50f8da8686514b6e8de754e17a6aebfb18d3d4c9052f08fba50",
+      "bytes": 7226,
+      "sha256": "c46bc07856fa246b9a1340ac4989fe4698d971c29bd5e205a50c28a1b57aebbd",
       "errors": []
     },
     {

@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/dark-psytrance-sequences-simple-synth-preview.mp3",
-  "preview_sha256": "2ac92a790915a0624788ce2ef241e0192249ef9b27f693b252314676c7ef847d",
+  "preview_sha256": "4fa09803184fafcf919190305c55d336e520fac1d33953073bc79d8cf706d55e",
   "source_midi_path": "midi/ps01-root-network/ps01-root-network-combined.mid",
-  "source_midi_sha256": "8a359bf26153c09c327ae89fbb7a5e57ae93a1fc5d84c4e64456c7ea89c02a29",
+  "source_midi_sha256": "660ba4a3ccd4206137ba88d6c69491d5d4ec322ee48f427faad27a3dd37f279e",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 51.892
   },
   "measurement": {
-    "sample_peak": 0.103174,
+    "sample_peak": 0.118652,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

@@ -33,8 +33,8 @@
     },
     {
       "path": "art/raster-provenance.json",
-      "bytes": 500,
-      "sha256": "8ce05e48f2ce6c5b69591f846f47949671d44dbabce93a648c9a3da4e25e0ceb"
+      "bytes": 408,
+      "sha256": "17cf87b0f572f4c82db185ea3927b0ef6198c8b392a83180e4cad647f06a25bf"
     },
     {
       "path": "art/square.jpg",
@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 116117,
-      "sha256": "1540a09f83fc42d5730414633d1158df19ece6d69e966c13ee62ab146647954f"
+      "bytes": 119185,
+      "sha256": "6389250c5a62993889617d68b0f9550263e677016e867f2e1263758e8fa4fc0c"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 387,
-      "sha256": "5f6f97a7d5a3b7d603f98491dbc32c71549ffbc32619c72d4da43b415ba91f34"
+      "sha256": "46bd5a70ae9e59b7de8689f3ad74a1496cb05de0c23e654bfcbbff37a78743da"
     },
     {
       "path": "checks/clip-validation.json",
@@ -109,7 +109,7 @@
     {
       "path": "checks/media-validation.json",
       "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "sha256": "a38ce5abc6328741f322e9c64cb0b692f1877c6c69b6811e7a77f4d662e7a018"
     },
     {
       "path": "clips/ps01-bass-hook-01.mid",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/dark-psytrance-sequences-midi.zip",
-      "bytes": 30808,
-      "sha256": "7004cfd5797c558d5153fd666a6ed58fab561740958d9954fd255e1557fb9b2b"
+      "bytes": 33226,
+      "sha256": "ee5e8d040dd4ab30e3dce48d1f36817f12fd1c2692737ca6a572214a924e7408"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2922,
-      "sha256": "8efb0d9814bb1d1aefe540f11801122e0786e20eba3646b6cdd397e0e6ed06a3"
+      "bytes": 3123,
+      "sha256": "537b90cf52b29a0f44961f32d6664700c487a1f9dc64341ff7ab6c41e2219fcf"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 1354827,
-      "sha256": "045d630735428d2dba9a37dcca9e8f6949d3a8b774f7964851c7e775b3019939"
+      "bytes": 1364746,
+      "sha256": "cc2c93b32c21d0b799b954cab5ee9f82382cc2565126ab91df8dfd8e8a1a367b"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1187,
-      "sha256": "8359b393c203c162e053c1a175bdc726ac4f7ead0f90e7dfbb24e1f5989fc5e3"
+      "bytes": 1213,
+      "sha256": "9efcfe39324228eddd7de2eac48b142c79e65332ce471c9170ef1056255e2a38"
     },
     {
       "path": "index.html",
-      "bytes": 9636,
-      "sha256": "15f4aaad5c8eab26f9270f9079499f9578c6201539dca952c68ad0ea75dd58ca"
+      "bytes": 10670,
+      "sha256": "870149c52a4f0c00dfbf1304e0f78225c76346fbd8ade54cb4cfbb258e7d320b"
     },
     {
       "path": "midi/ps01-root-network/chord_pulse.mid",
@@ -253,13 +253,13 @@
     },
     {
       "path": "midi/ps01-root-network/principal_motif.mid",
-      "bytes": 1161,
-      "sha256": "85df2f2c89c2e861a3a824feaf97a1d380fd560ddc70e60a4263a7e97f8fe375"
+      "bytes": 1252,
+      "sha256": "a7bcfd804575c30a5b79b877693d7316cf362974bf8258abd15be2e979ce8e39"
     },
     {
       "path": "midi/ps01-root-network/ps01-root-network-combined.mid",
-      "bytes": 7189,
-      "sha256": "8a359bf26153c09c327ae89fbb7a5e57ae93a1fc5d84c4e64456c7ea89c02a29"
+      "bytes": 7280,
+      "sha256": "660ba4a3ccd4206137ba88d6c69491d5d4ec322ee48f427faad27a3dd37f279e"
     },
     {
       "path": "midi/ps01-root-network/sub_bass.mid",
@@ -288,13 +288,13 @@
     },
     {
       "path": "midi/ps02-hidden-grove/principal_motif.mid",
-      "bytes": 1161,
-      "sha256": "acd064cb1afc636600f60cd06f0b53abf8cd16db0ac793565b9de3932d7edee6"
+      "bytes": 1253,
+      "sha256": "64a0a7d18aa435dcc3d50d945921a698fbe93e6d325b7adefee24b6e99c13d10"
     },
     {
       "path": "midi/ps02-hidden-grove/ps02-hidden-grove-combined.mid",
-      "bytes": 7189,
-      "sha256": "c62add5c4634444d43e43e7dc960762fa3bb7d631929c7eaca5888514e81bfa3"
+      "bytes": 7281,
+      "sha256": "08b401a1a685a2acb5bac2621461e9f1ceead1eefcb4ae1fcc534d41b8838644"
     },
     {
       "path": "midi/ps02-hidden-grove/sub_bass.mid",
@@ -323,13 +323,13 @@
     },
     {
       "path": "midi/ps03-black-mycelium/principal_motif.mid",
-      "bytes": 1121,
-      "sha256": "e5f9883b896133ed6238964f39a0eb74437a07b0c62d3a58797c5b106c773a03"
+      "bytes": 1196,
+      "sha256": "37a9262b2c173a1e06dd5a96e77e7e21b18c53625001f0655a7d64adce1e9dcf"
     },
     {
       "path": "midi/ps03-black-mycelium/ps03-black-mycelium-combined.mid",
-      "bytes": 7149,
-      "sha256": "4fdabc0388f37843032beb5f489479bc50a7e3665c68b553c8163f3ccc569e59"
+      "bytes": 7224,
+      "sha256": "133098961b98c2e08c932de27aeff28e3bd6cac466c5759746307148fee4ed83"
     },
     {
       "path": "midi/ps03-black-mycelium/sub_bass.mid",
@@ -358,13 +358,13 @@
     },
     {
       "path": "midi/ps04-moon-circuit/principal_motif.mid",
-      "bytes": 1121,
-      "sha256": "1d580d42275dbd6054fa41e8d7a17ff5f976d38c9a865b20aa2d130a52d0c7b9"
+      "bytes": 1198,
+      "sha256": "81e71a235e10076261aaa75f4fd10a294da171f9b19c9c38f9e8504d77031a68"
     },
     {
       "path": "midi/ps04-moon-circuit/ps04-moon-circuit-combined.mid",
-      "bytes": 7149,
-      "sha256": "15a0abf81fbbc50f8da8686514b6e8de754e17a6aebfb18d3d4c9052f08fba50"
+      "bytes": 7226,
+      "sha256": "c46bc07856fa246b9a1340ac4989fe4698d971c29bd5e205a50c28a1b57aebbd"
     },
     {
       "path": "midi/ps04-moon-circuit/sub_bass.mid",
@@ -379,17 +379,22 @@
     {
       "path": "preview/dark-psytrance-sequences-simple-synth-preview.mp3",
       "bytes": 1258937,
-      "sha256": "2ac92a790915a0624788ce2ef241e0192249ef9b27f693b252314676c7ef847d"
+      "sha256": "4fa09803184fafcf919190305c55d336e520fac1d33953073bc79d8cf706d55e"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1139,
-      "sha256": "594a5eeebaabf100ea226513a076fbb109e165a5b4b73bce153246c066c6edf8"
+      "sha256": "733c353f235bae279e26485d982d88f82a5103e81256b0207b7978b07646fde0"
     },
     {
       "path": "README.md",
-      "bytes": 3910,
-      "sha256": "83d85eba6f8b4f135554b59205d7edcf4021e162eab790d1cd6adab10755b0e2"
+      "bytes": 4128,
+      "sha256": "f3bfea6d5646b845ad586eaa918a928cbea436973cef5e1419ab20a9a1d13b63"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 790,
+      "sha256": "203f31d38636cffa204d1907a606e56edb19118c60770be54abfcdae4465aeba"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 77875,
-      "sha256": "09ed5c7c9221d1506e9f3c233668b3207c72defeabaa5d2aea5cb40aef1d8fbe"
+      "bytes": 78376,
+      "sha256": "fc89d2485e7ce28c7bcea1b7d4abace88120fa3e529e2d85169d6aa7aead74d6"
     },
     {
       "path": "tools/polish_release.py",
