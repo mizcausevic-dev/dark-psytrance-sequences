@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dark-psytrance-sequences-midi.zip",
-      "bytes": 36086,
-      "sha256": "f9283c370364ba6f7a06af40f3674d2ff548ad16fa36789c27c0efb0af751a02"
+      "bytes": 37073,
+      "sha256": "c0a022e105676184f85eec2ce3f080333648f8b9d658140dcd7cb48e664881e4"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10913,
-      "sha256": "6aa3dd187940540fe69389905651253d019530b8256e7678d5c52724771e94c5"
+      "bytes": 11103,
+      "sha256": "82937b2219a4fc7a5499e341e50e72d52b9bf81867dafdeb34aace249bb2923b"
     },
     {
       "path": "midi/ps01-root-network/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "af81bb1d6ac1a58f36121701ca48e09599732febc48ab66e2a74a8dc927f9e20"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dark-psytrance-sequences-simple-synth-preview.mp3",
       "bytes": 1258937,
       "sha256": "4fa09803184fafcf919190305c55d336e520fac1d33953073bc79d8cf706d55e"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4287,
-      "sha256": "73357c7c374ee0aa794455a6a7a3c02da525edaef68be43da2f1305ffb4236f1"
+      "bytes": 4402,
+      "sha256": "a1545d6b98c758ba8585c8d59a86217741ac228c3a432ded6b242cd20a0be62d"
     },
     {
       "path": "REVISION.md",
